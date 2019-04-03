@@ -11,11 +11,11 @@ Instructions to to answer the questions as as below:
 Interview Questions:
 
 1. What is your full name?
-
+VKMCOL
 
 2. When did you come to USA?
-
+2020
 
 3. What is your favorite books?
-
+Java
 
